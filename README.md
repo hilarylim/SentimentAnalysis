@@ -33,3 +33,5 @@ From our findings, it shows that:
 * 2. 5-star hotel customers care about both room satisfaction and value 
 
 <img width="1200" alt="corr2" src="https://user-images.githubusercontent.com/77626155/128628188-01830dce-b2c9-436d-977a-71b1861d5e15.PNG">
+
+* 3. with more data from each hotel group, it would might be easier to advise each hotel group the area that they can improve on (depending on the current trend and analysis done) 
